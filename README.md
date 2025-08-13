@@ -10,5 +10,5 @@ Logcat Output:
 <img width="1332" height="252" alt="image" src="https://github.com/user-attachments/assets/a1dc89aa-7282-4309-bfb4-598cba6e9587" />
 
 Toast & Snackbar :
-<img width="1080" height="2424" alt="Screenshot_20250813_092245" src="https://github.com/user-attachments/assets/3d6347b2-28f7-4f55-90aa-97db3c1a084a" />
+<img width="300" height="600" alt="Screenshot_20250813_092245" src="https://github.com/user-attachments/assets/3d6347b2-28f7-4f55-90aa-97db3c1a084a" />
 
